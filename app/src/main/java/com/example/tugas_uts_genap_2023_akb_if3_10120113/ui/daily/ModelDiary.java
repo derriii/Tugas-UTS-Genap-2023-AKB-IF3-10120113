@@ -1,10 +1,10 @@
 package com.example.tugas_uts_genap_2023_akb_if3_10120113.ui.daily;
 
 /*
- * NIM : 10119084
- *Nama : Muhammad Idris Merdefi
- *Kelas : IF2
- *Email : muhammadidrismerdefi23@gmail.com
+ *NIM   : 10120113
+ *Nama  : Deri Tri Oktiana
+ *Kelas : IF3
+ *Email : deritrioktiana.1@gmail.com
  * */
 
 public class ModelDiary {
