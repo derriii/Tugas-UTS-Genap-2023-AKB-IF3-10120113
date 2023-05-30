@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195440887188",
+    "project_id": "uts-akb-10120113-if3",
+    "storage_bucket": "uts-akb-10120113-if3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195440887188:android:a188edf4d2ed96f4333b81",
+        "android_client_info": {
+          "package_name": "com.example.tugas_uts_genap_2023_akb_if3_10120113"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpYCKgmcFgEIMLM9c8yqS631Tg_ppG1f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195440887188:android:3d8e5a5bfbb77a32333b81",
+        "android_client_info": {
+          "package_name": "universitas.komputer.indoensia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpYCKgmcFgEIMLM9c8yqS631Tg_ppG1f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
